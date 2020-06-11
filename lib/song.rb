@@ -21,8 +21,6 @@ class Song
     @@all
   end
 
-  def self.song_count
-    @@all.length
-  end
+
 
 end
