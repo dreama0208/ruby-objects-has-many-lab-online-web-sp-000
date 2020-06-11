@@ -9,10 +9,6 @@ class Song
     @@all << self
   end
 
-  def add_song_by_name(title)
-
-  end
-
   def artist_name
     self.artist.name
   end
