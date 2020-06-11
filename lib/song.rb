@@ -21,4 +21,8 @@ class Song
     @@all
   end
 
+  def self.song_count
+
+  end
+
 end
